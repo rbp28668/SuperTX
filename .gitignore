@@ -1,0 +1,10 @@
+# gitignore file for c++ projects
+
+*.exe
+*.obj
+*.pch
+*.sbr
+*.plg
+*.idb
+*.pdb
+*.00?

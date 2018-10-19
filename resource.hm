@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by SuperTX.rc
+//
+#define HIDC_LST_OUTPUTS                0x8088041c    // IDD_EDIT_MIXER
